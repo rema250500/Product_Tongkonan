@@ -2411,8 +2411,10 @@ hr {
   display: inline-block;
   margin: 15px;
   padding: 60px 20px 80px 20px;
+  /*background-color: #fff;*/
   background-color: #fff;
-  background-image: url(../img/pricing_pattern_grayscale.svg);
+  /*blanko pembelian  /laflet  pembelian*/
+  background-image: url(img/pricing_pattern_grayscale.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 300px;
@@ -2430,7 +2432,8 @@ hr {
 }
 
 .pricing-item.active {
-  background-image: url(..s/img/pricing_pattern.svg);
+  /*blanko pembelian  /laflet  pembelian*/
+  background-image: url(img/pricing_pattern.svg);
 }
 
 .active .pricing-header h1 {
